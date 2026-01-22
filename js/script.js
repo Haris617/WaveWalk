@@ -1,1 +1,0 @@
-console.log("WaveWalk JS loaded successfully");
